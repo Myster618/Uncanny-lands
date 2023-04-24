@@ -1,0 +1,7 @@
+name: Carbon
+description: Pure carbon. Used in constructing.
+hardness: 0
+cost: 1.0
+flammability: 0.8
+color: 3c3838
+alwaysUnlocked: true
