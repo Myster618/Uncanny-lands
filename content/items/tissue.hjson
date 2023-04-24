@@ -1,0 +1,9 @@
+name: Tisuue
+description: Lightweight and flexible yet durable material. Used to produce units and advanced buildings.
+cost: 3.0
+hardness: 2
+color: 999781
+flammability: 0.2
+research: {
+    parent: chitin
+}
