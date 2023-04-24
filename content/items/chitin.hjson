@@ -1,0 +1,8 @@
+name: Chitin
+description: Hard biogenic item.
+cost: 2.0
+hardness: 2
+color: ebeef5
+research: {
+    parent: calcium
+}
