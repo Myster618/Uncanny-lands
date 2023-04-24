@@ -1,0 +1,10 @@
+name: Phosphorus
+description: Highly explosive material.
+hardness: 2
+cost: 0.5
+color: 742222
+flammability: 1.5
+explosiveness: 0.0005
+research: {
+    parent: chitin
+}
