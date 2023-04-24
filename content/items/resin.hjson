@@ -1,0 +1,9 @@
+name: Resin
+description: Biological resin in solid state. Used as glue in construction. Can transform into polymeric material.
+cost: 5.0
+flammability: 0.05
+charge: 0.2
+color: eac629
+research: {
+    parent: phosphorus
+}
