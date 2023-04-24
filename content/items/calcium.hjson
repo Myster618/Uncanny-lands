@@ -1,0 +1,8 @@
+name: Calcium
+description: Hard but brittle material. Used in construction or as ammo.
+cost: 2.0
+hardness: 1
+color: ffffff
+research: {
+    parent: carbon
+}
